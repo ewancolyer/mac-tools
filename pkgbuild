@@ -1,0 +1,1 @@
+pkgbuild --root payload --install-location "installlocations" --identifier com.example.com --version 1 pkgname.pkg
